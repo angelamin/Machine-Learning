@@ -1,0 +1,3023 @@
+2017-09-11 08:30:03,393	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:30:05,167	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:30:05,193	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:30:09,324	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:30:09,342	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:35:07,375	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:35:07,432	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:35:11,312	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:35:11,319	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:35:11,347	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:35:11,362	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:35:11,863	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:35:13,682	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:35:13,708	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:35:17,579	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:35:17,578	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:35:17,810	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:35:17,935	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:35:19,967	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:35:19,975	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:35:20,006	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:35:20,015	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:35:20,020	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:35:20,045	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:35:54,629	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:35:54,631	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:35:54,631	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:35:54,784	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:35:57,071	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:35:57,092	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:35:57,254	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:35:57,271	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:35:57,381	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:35:57,400	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:35:59,481	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:00,250	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:00,404	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:00,519	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:36:01,052	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:01,065	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:36:01,830	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:01,872	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:36:02,190	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:02,204	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:36:16,133	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:16,301	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:16,404	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:16,531	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:36:18,474	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:18,493	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:36:18,688	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:18,706	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:36:18,760	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:18,770	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:36:20,577	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:20,789	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:20,820	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:21,018	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:36:23,109	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:23,167	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:36:23,691	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:23,710	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:36:23,906	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:23,919	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:36:25,402	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:25,818	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:25,990	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:36:26,122	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:36:27,297	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:27,310	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:36:27,680	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:27,693	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:36:27,975	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:27,989	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:36:56,591	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-11 08:36:56,600	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:36:57,378	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:36:57,392	File "_internal.py",line 87	INFO:  * Debugger PIN: 189-616-740
+2017-09-11 08:37:08,523	File "app.py",line 83	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 08:37:08,525	File "app.py",line 83	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 08:37:08,530	File "app.py",line 83	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 08:37:08,531	File "app.py",line 83	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 08:37:08,532	File "app.py",line 83	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 08:37:09,987	File "app.py",line 98	INFO: detecting face .....
+2017-09-11 08:37:09,988	File "app.py",line 98	INFO: detecting face .....
+2017-09-11 08:37:10,565	File "app.py",line 98	INFO: detecting face .....
+2017-09-11 08:37:10,588	File "app.py",line 98	INFO: detecting face .....
+2017-09-11 08:37:10,611	File "app.py",line 98	INFO: detecting face .....
+2017-09-11 08:37:10,875	File "app.py",line 124	INFO: detect success!
+2017-09-11 08:37:13,091	File "app.py",line 124	INFO: detect success!
+2017-09-11 08:37:14,763	File "app.py",line 124	INFO: detect success!
+2017-09-11 08:37:14,893	File "app.py",line 124	INFO: detect success!
+2017-09-11 08:37:14,901	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 08:37:14] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 08:37:42,604	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:37:42,828	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:37:42,915	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:37:43,077	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:37:43,079	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:37:43,347	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:37:45,160	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:37:45,190	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:37:45,643	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:37:45,674	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:37:45,712	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:37:45,727	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:37:45,756	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:37:45,788	File "_internal.py",line 87	INFO:  * Debugger PIN: 189-616-740
+2017-09-11 08:37:45,911	File "app.py",line 84	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 08:37:45,913	File "app.py",line 84	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 08:37:45,918	File "app.py",line 84	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 08:37:45,923	File "app.py",line 84	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 08:37:45,921	File "app.py",line 84	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 08:37:46,684	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:37:46,692	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:37:46,762	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:37:46,882	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:37:47,000	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:37:47,652	File "app.py",line 125	INFO: detect success!
+2017-09-11 08:37:52,560	File "app.py",line 125	INFO: detect success!
+2017-09-11 08:37:53,145	File "app.py",line 125	INFO: detect success!
+2017-09-11 08:37:53,396	File "app.py",line 125	INFO: detect success!
+2017-09-11 08:37:53,409	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 08:37:53] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 08:38:39,019	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:38:39,587	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:38:39,593	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:38:39,595	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:38:39,931	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:38:39,959	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:38:41,156	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:38:41,184	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:38:42,659	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:38:42,677	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:38:42,929	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:38:42,941	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:38:42,981	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:38:43,005	File "_internal.py",line 87	INFO:  * Debugger PIN: 189-616-740
+2017-09-11 08:38:52,947	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:38:53,078	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:38:53,166	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:38:53,217	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:38:53,302	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:38:53,503	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:38:55,590	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:38:55,608	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:38:56,108	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:38:56,136	File "_internal.py",line 87	INFO:  * Debugger PIN: 189-616-740
+2017-09-11 08:38:56,151	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:38:56,165	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:38:56,278	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:38:56,287	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:38:58,522	File "app.py",line 84	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 08:38:58,527	File "app.py",line 84	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 08:38:58,528	File "app.py",line 84	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 08:38:58,529	File "app.py",line 84	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 08:38:58,530	File "app.py",line 84	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 08:38:59,799	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:39:00,245	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:39:00,454	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:39:00,550	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:39:00,755	File "app.py",line 125	INFO: detect success!
+2017-09-11 08:39:00,786	File "app.py",line 128	INFO: 加载入文件完成...
+2017-09-11 08:39:00,832	File "app.py",line 84	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 08:39:00,838	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:39:01,204	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:39:07,279	File "app.py",line 125	INFO: detect success!
+2017-09-11 08:39:07,286	File "app.py",line 128	INFO: 加载入文件完成...
+2017-09-11 08:39:07,289	File "app.py",line 84	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 08:39:07,501	File "app.py",line 99	INFO: detecting face .....
+2017-09-11 08:39:09,885	File "app.py",line 125	INFO: detect success!
+2017-09-11 08:39:09,901	File "app.py",line 128	INFO: 加载入文件完成...
+2017-09-11 08:39:10,981	File "app.py",line 125	INFO: detect success!
+2017-09-11 08:39:11,005	File "app.py",line 128	INFO: 加载入文件完成...
+2017-09-11 08:39:11,508	File "app.py",line 125	INFO: detect success!
+2017-09-11 08:39:11,520	File "app.py",line 128	INFO: 加载入文件完成...
+2017-09-11 08:39:11,801	File "app.py",line 125	INFO: detect success!
+2017-09-11 08:39:11,808	File "app.py",line 128	INFO: 加载入文件完成...
+2017-09-11 08:39:11,825	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 08:39:11] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 08:43:25,686	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:43:25,845	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:43:26,050	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:43:26,216	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:43:26,382	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:43:26,442	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:43:28,846	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:43:28,864	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-891-438
+2017-09-11 08:43:28,942	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:43:28,966	File "_internal.py",line 87	INFO:  * Debugger PIN: 916-179-080
+2017-09-11 08:43:29,173	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:43:29,182	File "_internal.py",line 87	INFO:  * Debugger PIN: 189-616-740
+2017-09-11 08:43:29,210	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:43:29,229	File "_internal.py",line 87	INFO:  * Debugger PIN: 165-617-725
+2017-09-11 08:43:33,860	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 08:43:33,860	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 08:43:33,861	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 08:43:33,863	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 08:43:33,865	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 08:43:35,143	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:43:35,143	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:43:35,728	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:43:35,733	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 08:43:35,985	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:43:36,047	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:43:36,075	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:43:36,119	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:43:38,604	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:43:38,605	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 08:43:38,829	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:43:44,596	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:43:45,007	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:43:45,032	File "app.py",line 112	INFO: error:get face features errorimg data:[[[114 128 127]
+  [104 122 123]
+  [ 86 108 114]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[118 136 137]
+  [ 89 110 112]
+  [ 60  86  92]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[ 67  90  92]
+  [ 55  79  85]
+  [ 49  77  84]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ ..., 
+ [[192 218 235]
+  [192 218 235]
+  [191 217 234]
+  ..., 
+  [ 89 114 130]
+  [ 89 115 131]
+  [ 90 116 132]]
+
+ [[192 218 235]
+  [191 217 234]
+  [191 217 234]
+  ..., 
+  [ 89 115 131]
+  [ 90 116 132]
+  [ 91 117 134]]
+
+ [[189 217 234]
+  [191 217 234]
+  [192 216 234]
+  ..., 
+  [ 88 115 129]
+  [ 92 115 130]
+  [ 95 116 131]]]img_urlhttp://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg
+2017-09-11 08:43:45,037	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:43:45,091	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:43:45,101	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 08:43:45,107	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 08:43:45] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 08:45:48,344	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 08:45:48,345	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 08:45:48,346	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 08:45:48,347	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 08:45:48,349	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 08:45:51,784	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:45:51,800	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:45:51,974	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:45:51,990	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:45:52,032	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:45:54,355	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:45:54,360	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 08:45:54,572	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:45:58,253	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:45:58,388	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:45:58,718	File "app.py",line 112	INFO: error:get face features errorimg data:[[[255 255 255]
+  [250 250 250]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[253 253 253]
+  [255 255 255]
+  [249 249 249]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [251 251 251]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ..., 
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 251]
+  [255 255 249]
+  [255 255 251]]
+
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 252]
+  [255 255 251]
+  [255 255 252]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 254 255]
+  ..., 
+  [255 255 254]
+  [255 255 254]
+  [255 255 254]]]img_urlhttp://img00.hc360.com/cs/201309/201309301340524588.jpg
+2017-09-11 08:45:58,742	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 08:45:58,937	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:46:09,701	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:47:57,644	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-11 08:47:57,655	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:47:59,920	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:48:00,216	File "_internal.py",line 87	INFO:  * Debugger PIN: 235-087-258
+2017-09-11 08:48:02,990	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 08:48:02,997	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 08:48:03,001	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 08:48:03,004	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 08:48:03,007	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 08:48:06,898	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:48:06,895	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:48:07,342	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:48:08,173	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:48:08,175	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:52:03,173	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-11 08:52:03,182	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:52:03,916	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:52:03,928	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 08:52:09,370	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 08:52:09,371	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 08:52:09,374	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 08:52:09,376	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 08:52:09,378	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 08:52:11,085	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:52:11,092	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:52:11,706	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:52:11,719	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:52:11,773	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:52:12,030	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:52:12,032	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 08:52:12,283	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:52:14,405	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:52:14,406	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 08:52:14,741	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:52:19,946	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:52:20,400	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:52:20,410	File "app.py",line 112	INFO: error:get face features errorimg data:[[[114 128 127]
+  [104 122 123]
+  [ 86 108 114]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[118 136 137]
+  [ 89 110 112]
+  [ 60  86  92]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[ 67  90  92]
+  [ 55  79  85]
+  [ 49  77  84]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ ..., 
+ [[192 218 235]
+  [192 218 235]
+  [191 217 234]
+  ..., 
+  [ 89 114 130]
+  [ 89 115 131]
+  [ 90 116 132]]
+
+ [[192 218 235]
+  [191 217 234]
+  [191 217 234]
+  ..., 
+  [ 89 115 131]
+  [ 90 116 132]
+  [ 91 117 134]]
+
+ [[189 217 234]
+  [191 217 234]
+  [192 216 234]
+  ..., 
+  [ 88 115 129]
+  [ 92 115 130]
+  [ 95 116 131]]]img_urlhttp://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg
+2017-09-11 08:52:20,414	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:52:20,467	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:52:20,475	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 08:52:20,487	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 08:52:20] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 08:57:28,912	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:57:29,380	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:57:30,209	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:57:30,223	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 08:57:33,928	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 08:57:33,930	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 08:57:33,938	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 08:57:33,939	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 08:57:33,941	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 08:57:35,360	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:57:35,361	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:57:35,948	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:57:35,963	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:57:35,963	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:57:35,969	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:57:35,976	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 08:57:36,148	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:57:38,388	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:57:38,395	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 08:57:38,629	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:57:43,152	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:57:43,362	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:57:43,811	File "app.py",line 112	INFO: error:get face features errorimg data:[[[174 178 183]
+  [177 183 188]
+  [182 188 195]
+  ..., 
+  [115 126 118]
+  [115 126 118]
+  [115 126 118]]
+
+ [[175 179 184]
+  [178 184 189]
+  [183 189 196]
+  ..., 
+  [115 126 118]
+  [115 126 118]
+  [115 126 118]]
+
+ [[176 180 185]
+  [181 185 190]
+  [185 191 198]
+  ..., 
+  [116 127 119]
+  [116 127 119]
+  [116 127 119]]
+
+ ..., 
+ [[160 161 157]
+  [160 161 157]
+  [160 161 157]
+  ..., 
+  [ 61  61  15]
+  [ 60  60  14]
+  [ 60  60  14]]
+
+ [[160 161 157]
+  [160 161 157]
+  [160 161 157]
+  ..., 
+  [ 61  61  15]
+  [ 60  60  14]
+  [ 60  60  14]]
+
+ [[159 160 156]
+  [160 161 157]
+  [160 161 157]
+  ..., 
+  [ 62  62  16]
+  [ 61  61  15]
+  [ 60  60  14]]]img_urlhttp://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg
+2017-09-11 08:57:43,813	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:57:43,818	File "app.py",line 128	INFO: detect success!
+2017-09-11 08:57:43,830	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 08:57:43,833	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 08:57:43] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 08:58:04,718	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 08:58:04,959	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 08:58:05,771	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 08:58:05,780	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 08:58:07,261	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 08:58:07,262	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 08:58:07,266	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 08:58:07,265	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 08:58:07,268	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 08:58:07,735	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:58:07,759	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:58:07,881	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:58:07,925	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:58:08,144	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:58:08,858	File "app.py",line 131	INFO: detect success!
+2017-09-11 08:58:08,869	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 08:58:09,010	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:58:12,201	File "app.py",line 131	INFO: detect success!
+2017-09-11 08:58:12,226	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 08:58:12,476	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 08:58:15,922	File "app.py",line 131	INFO: detect success!
+2017-09-11 08:58:15,944	File "app.py",line 112	INFO: error:get face features errorimg data:[[[142 152 116]
+  [101 106  77]
+  [109 110  90]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ [[149 159 123]
+  [ 96 101  72]
+  [ 83  85  65]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ [[151 158 125]
+  [ 88  95  68]
+  [ 72  77  56]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ ..., 
+ [[201 214 212]
+  [206 214 214]
+  [204 214 214]
+  ..., 
+  [233 224 210]
+  [230 221 207]
+  [230 220 203]]
+
+ [[201 214 212]
+  [207 215 214]
+  [206 216 216]
+  ..., 
+  [228 221 206]
+  [226 217 203]
+  [223 215 198]]
+
+ [[201 214 212]
+  [206 214 213]
+  [204 214 214]
+  ..., 
+  [226 219 204]
+  [223 216 199]
+  [221 213 196]]]img_urlhttp://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg
+2017-09-11 08:58:16,645	File "app.py",line 131	INFO: detect success!
+2017-09-11 08:58:16,723	File "app.py",line 131	INFO: detect success!
+2017-09-11 08:58:16,729	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 08:58:16,733	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 08:58:16] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 09:42:59,640	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 09:42:59,641	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 09:42:59,642	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 09:42:59,643	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 09:42:59,644	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 09:43:02,018	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:43:02,019	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:43:02,516	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:43:02,567	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:43:02,607	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:43:02,750	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:43:02,751	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 09:43:03,036	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:43:05,154	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:43:05,160	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 09:43:05,369	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:43:09,912	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:43:10,003	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:43:10,023	File "app.py",line 112	INFO: error:get face features errorimg data:[[[114 128 127]
+  [104 122 123]
+  [ 86 108 114]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[118 136 137]
+  [ 89 110 112]
+  [ 60  86  92]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[ 67  90  92]
+  [ 55  79  85]
+  [ 49  77  84]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ ..., 
+ [[192 218 235]
+  [192 218 235]
+  [191 217 234]
+  ..., 
+  [ 89 114 130]
+  [ 89 115 131]
+  [ 90 116 132]]
+
+ [[192 218 235]
+  [191 217 234]
+  [191 217 234]
+  ..., 
+  [ 89 115 131]
+  [ 90 116 132]
+  [ 91 117 134]]
+
+ [[189 217 234]
+  [191 217 234]
+  [192 216 234]
+  ..., 
+  [ 88 115 129]
+  [ 92 115 130]
+  [ 95 116 131]]]img_urlhttp://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg
+2017-09-11 09:43:10,044	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:43:10,508	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:43:10,514	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 09:43:10,517	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 09:43:10] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 09:44:35,026	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 09:44:35,574	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 09:44:37,002	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 09:44:37,010	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 09:44:39,235	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 09:44:39,237	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 09:44:39,242	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 09:44:39,244	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 09:44:39,247	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 09:44:40,844	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:44:40,867	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:44:41,445	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:44:41,476	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:44:41,504	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:44:41,714	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:44:41,715	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 09:44:41,967	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:44:44,028	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:44:44,030	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 09:44:44,260	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:44:48,779	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:44:48,989	File "app.py",line 112	INFO: error:get face features errorimg data:[[[148 139 125]
+  [144 135 121]
+  [136 124 106]
+  ..., 
+  [ 36  31  28]
+  [ 36  31  28]
+  [ 36  31  28]]
+
+ [[148 139 125]
+  [144 135 121]
+  [138 126 108]
+  ..., 
+  [ 37  32  29]
+  [ 36  31  28]
+  [ 36  31  28]]
+
+ [[149 140 126]
+  [145 136 122]
+  [139 127 109]
+  ..., 
+  [ 37  32  29]
+  [ 37  32  29]
+  [ 36  31  28]]
+
+ ..., 
+ [[ 50  38  32]
+  [ 50  38  32]
+  [ 50  38  32]
+  ..., 
+  [ 49  37  31]
+  [ 49  37  31]
+  [ 49  37  31]]
+
+ [[ 49  37  31]
+  [ 49  37  31]
+  [ 49  37  31]
+  ..., 
+  [ 50  38  32]
+  [ 49  37  31]
+  [ 49  37  31]]
+
+ [[ 48  36  30]
+  [ 48  36  30]
+  [ 49  37  31]
+  ..., 
+  [ 50  38  32]
+  [ 50  38  32]
+  [ 49  37  31]]]img_urlhttp://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg
+2017-09-11 09:44:49,020	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:44:49,085	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:44:49,093	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 09:44:49,096	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 09:44:49] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 09:56:40,131	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 09:56:40,133	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 09:56:40,135	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 09:56:40,140	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 09:56:40,142	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 09:56:41,664	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:56:41,677	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:56:41,835	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:56:41,884	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:56:41,978	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:56:43,838	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:56:43,840	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 09:56:44,002	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:56:47,483	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:56:47,687	File "app.py",line 112	INFO: error:get face features errorimg data:[[[255 255 255]
+  [250 250 250]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[253 253 253]
+  [255 255 255]
+  [249 249 249]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [251 251 251]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ..., 
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 251]
+  [255 255 249]
+  [255 255 251]]
+
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 252]
+  [255 255 251]
+  [255 255 252]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 254 255]
+  ..., 
+  [255 255 254]
+  [255 255 254]
+  [255 255 254]]]img_urlhttp://img00.hc360.com/cs/201309/201309301340524588.jpg
+2017-09-11 09:56:47,692	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 09:56:47,817	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:56:47,908	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:56:48,813	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:56:49,893	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:56:49,901	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 09:56:49,904	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 09:56:49] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 09:59:45,453	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 09:59:45,797	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 09:59:46,876	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 09:59:46,890	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 09:59:48,174	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 09:59:48,175	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 09:59:48,177	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 09:59:48,178	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 09:59:48,185	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 09:59:50,660	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:59:50,727	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:59:51,189	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:59:51,190	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 09:59:51,658	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:59:51,679	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:59:51,699	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:59:51,842	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:59:52,581	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:59:52,586	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 09:59:52,805	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 09:59:59,030	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:59:59,286	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:59:59,299	File "app.py",line 112	INFO: error:get face features errorimg data:[[[114 128 127]
+  [104 122 123]
+  [ 86 108 114]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[118 136 137]
+  [ 89 110 112]
+  [ 60  86  92]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[ 67  90  92]
+  [ 55  79  85]
+  [ 49  77  84]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ ..., 
+ [[192 218 235]
+  [192 218 235]
+  [191 217 234]
+  ..., 
+  [ 89 114 130]
+  [ 89 115 131]
+  [ 90 116 132]]
+
+ [[192 218 235]
+  [191 217 234]
+  [191 217 234]
+  ..., 
+  [ 89 115 131]
+  [ 90 116 132]
+  [ 91 117 134]]
+
+ [[189 217 234]
+  [191 217 234]
+  [192 216 234]
+  ..., 
+  [ 88 115 129]
+  [ 92 115 130]
+  [ 95 116 131]]]img_urlhttp://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg
+2017-09-11 09:59:59,312	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:59:59,376	File "app.py",line 131	INFO: detect success!
+2017-09-11 09:59:59,381	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 09:59:59,386	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 09:59:59] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 10:10:10,739	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 10:10:11,002	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 10:10:11,952	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 10:10:11,966	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 10:10:18,800	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 10:10:18,802	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 10:10:18,802	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 10:10:18,806	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 10:10:18,808	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 10:10:20,427	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:10:20,500	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:10:20,508	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:10:20,670	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:10:20,717	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:10:22,819	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:10:22,824	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 10:10:22,999	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:10:25,915	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:10:26,483	File "app.py",line 112	INFO: error:get face features errorimg data:[[[255 255 255]
+  [250 250 250]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[253 253 253]
+  [255 255 255]
+  [249 249 249]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [251 251 251]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ..., 
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 251]
+  [255 255 249]
+  [255 255 251]]
+
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 252]
+  [255 255 251]
+  [255 255 252]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 254 255]
+  ..., 
+  [255 255 254]
+  [255 255 254]
+  [255 255 254]]]img_urlhttp://img00.hc360.com/cs/201309/201309301340524588.jpg
+2017-09-11 10:10:26,485	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 10:10:26,585	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:10:26,825	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:10:27,184	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:10:28,797	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:10:28,806	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 10:10:28,810	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 10:10:28] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 10:11:02,585	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 10:11:02,756	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 10:11:03,603	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 10:11:03,613	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 10:11:07,685	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 10:11:07,855	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 10:11:08,683	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 10:11:08,694	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 10:11:11,553	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 10:11:11,555	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 10:11:11,556	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 10:11:11,560	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 10:11:11,562	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 10:11:12,447	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:11:12,461	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:11:12,562	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:11:12,611	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:11:12,677	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:11:14,648	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:11:14,650	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 10:11:14,805	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:11:18,130	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:11:18,334	File "app.py",line 112	INFO: error:get face features errorimg data:[[[255 255 255]
+  [250 250 250]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[253 253 253]
+  [255 255 255]
+  [249 249 249]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [251 251 251]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ..., 
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 251]
+  [255 255 249]
+  [255 255 251]]
+
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 252]
+  [255 255 251]
+  [255 255 252]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 254 255]
+  ..., 
+  [255 255 254]
+  [255 255 254]
+  [255 255 254]]]img_urlhttp://img00.hc360.com/cs/201309/201309301340524588.jpg
+2017-09-11 10:11:18,340	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 10:11:18,487	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:11:19,935	File "app.py",line 112	INFO: error:get face features errorimg data:[[[148 139 125]
+  [144 135 121]
+  [136 124 106]
+  ..., 
+  [ 36  31  28]
+  [ 36  31  28]
+  [ 36  31  28]]
+
+ [[148 139 125]
+  [144 135 121]
+  [138 126 108]
+  ..., 
+  [ 37  32  29]
+  [ 36  31  28]
+  [ 36  31  28]]
+
+ [[149 140 126]
+  [145 136 122]
+  [139 127 109]
+  ..., 
+  [ 37  32  29]
+  [ 37  32  29]
+  [ 36  31  28]]
+
+ ..., 
+ [[ 50  38  32]
+  [ 50  38  32]
+  [ 50  38  32]
+  ..., 
+  [ 49  37  31]
+  [ 49  37  31]
+  [ 49  37  31]]
+
+ [[ 49  37  31]
+  [ 49  37  31]
+  [ 49  37  31]
+  ..., 
+  [ 50  38  32]
+  [ 49  37  31]
+  [ 49  37  31]]
+
+ [[ 48  36  30]
+  [ 48  36  30]
+  [ 49  37  31]
+  ..., 
+  [ 50  38  32]
+  [ 50  38  32]
+  [ 49  37  31]]]img_urlhttp://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg
+2017-09-11 10:11:19,940	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:11:20,728	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:11:20,787	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 10:11:20] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 10:12:30,631	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 10:12:30,845	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 10:12:31,685	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 10:12:31,698	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 10:12:39,105	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 10:12:39,105	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 10:12:39,107	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 10:12:39,108	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 10:12:39,109	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 10:12:40,319	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:12:40,334	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:12:40,437	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:12:40,502	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:12:40,660	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:12:41,144	File "app.py",line 133	INFO: detect success!
+2017-09-11 10:12:41,146	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 10:12:41,338	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:12:44,777	File "app.py",line 133	INFO: detect success!
+2017-09-11 10:12:44,780	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 10:12:44,960	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:12:47,807	File "app.py",line 133	INFO: detect success!
+2017-09-11 10:12:48,197	File "app.py",line 133	INFO: detect success!
+2017-09-11 10:12:48,624	File "app.py",line 133	INFO: detect success!
+2017-09-11 10:12:48,694	File "app.py",line 133	INFO: detect success!
+2017-09-11 10:12:48,746	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 10:12:48] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 10:13:28,357	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 10:13:28,605	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 10:13:29,651	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 10:13:29,666	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 10:13:33,817	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 10:13:33,817	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 10:13:33,820	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 10:13:33,823	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 10:13:33,830	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 10:13:35,075	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:13:35,094	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:13:35,211	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:13:35,247	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:13:35,393	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:13:36,377	File "app.py",line 134	INFO: detect success!
+2017-09-11 10:13:36,379	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 10:13:36,584	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:13:39,362	File "app.py",line 134	INFO: detect success!
+2017-09-11 10:13:39,367	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 10:13:39,505	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:13:42,537	File "app.py",line 134	INFO: detect success!
+2017-09-11 10:13:42,884	File "app.py",line 134	INFO: detect success!
+2017-09-11 10:13:42,896	File "app.py",line 112	INFO: error:get face features errorimg data:[[[114 128 127]
+  [104 122 123]
+  [ 86 108 114]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[118 136 137]
+  [ 89 110 112]
+  [ 60  86  92]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[ 67  90  92]
+  [ 55  79  85]
+  [ 49  77  84]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ ..., 
+ [[192 218 235]
+  [192 218 235]
+  [191 217 234]
+  ..., 
+  [ 89 114 130]
+  [ 89 115 131]
+  [ 90 116 132]]
+
+ [[192 218 235]
+  [191 217 234]
+  [191 217 234]
+  ..., 
+  [ 89 115 131]
+  [ 90 116 132]
+  [ 91 117 134]]
+
+ [[189 217 234]
+  [191 217 234]
+  [192 216 234]
+  ..., 
+  [ 88 115 129]
+  [ 92 115 130]
+  [ 95 116 131]]]img_urlhttp://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg
+2017-09-11 10:13:42,900	File "app.py",line 112	INFO: error:get face features errorimg data:[[[142 152 116]
+  [101 106  77]
+  [109 110  90]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ [[149 159 123]
+  [ 96 101  72]
+  [ 83  85  65]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ [[151 158 125]
+  [ 88  95  68]
+  [ 72  77  56]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ ..., 
+ [[201 214 212]
+  [206 214 214]
+  [204 214 214]
+  ..., 
+  [233 224 210]
+  [230 221 207]
+  [230 220 203]]
+
+ [[201 214 212]
+  [207 215 214]
+  [206 216 216]
+  ..., 
+  [228 221 206]
+  [226 217 203]
+  [223 215 198]]
+
+ [[201 214 212]
+  [206 214 213]
+  [204 214 214]
+  ..., 
+  [226 219 204]
+  [223 216 199]
+  [221 213 196]]]img_urlhttp://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg
+2017-09-11 10:13:42,919	File "app.py",line 134	INFO: detect success!
+2017-09-11 10:13:43,030	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 10:13:43] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 10:16:55,131	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 10:16:55,430	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 10:16:56,225	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 10:16:56,235	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 10:16:57,465	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 10:16:57,469	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 10:16:57,472	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 10:16:57,474	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 10:16:57,476	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 10:17:00,412	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:17:00,421	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:17:01,060	File "app.py",line 137	INFO: detect success!
+2017-09-11 10:17:01,063	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 10:17:01,346	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:17:01,356	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:17:01,408	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:17:01,433	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:17:03,429	File "app.py",line 137	INFO: detect success!
+2017-09-11 10:17:03,439	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 10:17:03,648	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:17:08,761	File "app.py",line 137	INFO: detect success!
+2017-09-11 10:17:08,966	File "app.py",line 112	INFO: error:get face features errorimg data:[[[174 178 183]
+  [177 183 188]
+  [182 188 195]
+  ..., 
+  [115 126 118]
+  [115 126 118]
+  [115 126 118]]
+
+ [[175 179 184]
+  [178 184 189]
+  [183 189 196]
+  ..., 
+  [115 126 118]
+  [115 126 118]
+  [115 126 118]]
+
+ [[176 180 185]
+  [181 185 190]
+  [185 191 198]
+  ..., 
+  [116 127 119]
+  [116 127 119]
+  [116 127 119]]
+
+ ..., 
+ [[160 161 157]
+  [160 161 157]
+  [160 161 157]
+  ..., 
+  [ 61  61  15]
+  [ 60  60  14]
+  [ 60  60  14]]
+
+ [[160 161 157]
+  [160 161 157]
+  [160 161 157]
+  ..., 
+  [ 61  61  15]
+  [ 60  60  14]
+  [ 60  60  14]]
+
+ [[159 160 156]
+  [160 161 157]
+  [160 161 157]
+  ..., 
+  [ 62  62  16]
+  [ 61  61  15]
+  [ 60  60  14]]]img_urlhttp://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg
+2017-09-11 10:17:08,987	File "app.py",line 137	INFO: detect success!
+2017-09-11 10:17:08,994	File "app.py",line 137	INFO: detect success!
+2017-09-11 10:17:09,151	File "app.py",line 137	INFO: detect success!
+2017-09-11 10:17:09,189	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 10:17:09] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 10:17:44,850	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 10:17:45,066	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 10:17:46,400	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 10:17:46,415	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 10:18:04,701	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 10:18:04,797	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 10:18:05,611	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 10:18:05,624	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 10:18:09,194	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 10:18:09,197	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 10:18:09,200	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 10:18:09,201	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 10:18:09,204	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 10:18:11,613	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:18:11,640	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:18:11,803	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:18:11,955	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:18:11,970	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:18:18,228	File "app.py",line 112	INFO: error:get face features errorimg data:[[[255 255 255]
+  [250 250 250]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[253 253 253]
+  [255 255 255]
+  [249 249 249]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [251 251 251]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ..., 
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 251]
+  [255 255 249]
+  [255 255 251]]
+
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 252]
+  [255 255 251]
+  [255 255 252]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 254 255]
+  ..., 
+  [255 255 254]
+  [255 255 254]
+  [255 255 254]]]img_urlhttp://img00.hc360.com/cs/201309/201309301340524588.jpg
+2017-09-11 10:18:18,240	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 10:18:18,362	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:18:20,132	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 10:18:20,134	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 10:18:20] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 10:18:57,434	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 10:18:57,640	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 10:18:58,557	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 10:18:58,567	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 10:19:00,018	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 10:19:00,019	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 10:19:00,025	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 10:19:00,027	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 10:19:00,029	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 10:19:00,938	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:19:00,955	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:19:01,098	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:19:01,180	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:19:01,268	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:19:01,696	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:19:01,696	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 10:19:01,973	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:19:06,044	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:19:06,046	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 10:19:06,161	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:19:08,973	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:19:09,276	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:19:09,773	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:19:09,832	File "app.py",line 131	INFO: detect success!
+2017-09-11 10:19:09,839	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 10:19:09,844	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 10:19:09] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 10:23:51,064	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 10:23:51,346	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 10:23:52,250	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 10:23:52,257	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 10:23:55,698	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 10:23:55,703	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 10:23:55,702	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 10:23:55,706	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 10:23:55,706	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 10:23:57,430	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:23:57,440	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:23:57,614	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:23:57,861	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:23:59,104	File "app.py",line 132	INFO: detect success!
+2017-09-11 10:23:59,106	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 10:23:59,311	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:24:00,962	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:24:02,371	File "app.py",line 132	INFO: detect success!
+2017-09-11 10:24:02,376	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 10:24:02,570	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 10:24:05,475	File "app.py",line 132	INFO: detect success!
+2017-09-11 10:24:06,232	File "app.py",line 112	INFO: error:get face features errorimg data:[[[114 128 127]
+  [104 122 123]
+  [ 86 108 114]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[118 136 137]
+  [ 89 110 112]
+  [ 60  86  92]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ [[ 67  90  92]
+  [ 55  79  85]
+  [ 49  77  84]
+  ..., 
+  [254 252 252]
+  [254 252 252]
+  [254 252 252]]
+
+ ..., 
+ [[192 218 235]
+  [192 218 235]
+  [191 217 234]
+  ..., 
+  [ 89 114 130]
+  [ 89 115 131]
+  [ 90 116 132]]
+
+ [[192 218 235]
+  [191 217 234]
+  [191 217 234]
+  ..., 
+  [ 89 115 131]
+  [ 90 116 132]
+  [ 91 117 134]]
+
+ [[189 217 234]
+  [191 217 234]
+  [192 216 234]
+  ..., 
+  [ 88 115 129]
+  [ 92 115 130]
+  [ 95 116 131]]]img_urlhttp://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg
+2017-09-11 10:24:06,254	File "app.py",line 132	INFO: detect success!
+2017-09-11 10:24:06,262	File "app.py",line 132	INFO: detect success!
+2017-09-11 10:24:06,308	File "app.py",line 132	INFO: detect success!
+2017-09-11 10:24:06,322	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 10:24:06,332	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 10:24:06] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 11:37:32,813	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-11 11:37:32,819	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:37:33,608	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:37:33,620	File "_internal.py",line 87	INFO:  * Debugger PIN: 855-438-661
+2017-09-11 11:42:30,040	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:42:30,175	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:42:30,196	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:42:31,226	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:42:31,237	File "_internal.py",line 87	INFO:  * Debugger PIN: 855-438-661
+2017-09-11 11:42:43,697	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:42:45,841	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:42:45,854	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 11:42:52,989	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:42:53,069	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:42:53,589	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:42:53,708	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:42:53,884	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:42:53,902	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 11:42:54,437	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:42:54,447	File "_internal.py",line 87	INFO:  * Debugger PIN: 855-438-661
+2017-09-11 11:43:07,710	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:43:07,851	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:43:08,198	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:43:08,284	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:43:08,744	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:43:08,760	File "_internal.py",line 87	INFO:  * Debugger PIN: 855-438-661
+2017-09-11 11:43:09,050	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:43:09,062	File "_internal.py",line 87	INFO:  * Debugger PIN: 296-341-857
+2017-09-11 11:44:45,216	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:44:45,325	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:44:45,458	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:44:45,542	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:46:09,274	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-11 11:46:09,281	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:46:09,925	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:46:09,943	File "_internal.py",line 87	INFO:  * Debugger PIN: 855-438-661
+2017-09-11 11:46:13,402	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 11:46:13,404	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 11:46:13,406	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 11:46:13,407	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 11:46:13,416	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 11:46:15,269	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:46:15,274	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:46:15,822	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:46:15,906	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:46:15,995	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:46:19,015	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 11:46:19,019	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 11:46:19] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 11:51:47,010	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:51:47,198	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:51:48,040	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:51:48,050	File "_internal.py",line 87	INFO:  * Debugger PIN: 855-438-661
+2017-09-11 11:51:54,945	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 11:51:54,947	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 11:51:54,948	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 11:51:54,950	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 11:51:54,956	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 11:51:56,701	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:51:56,703	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:51:56,903	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:51:56,931	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:51:56,969	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:52:01,192	File "app.py",line 112	INFO: error:get face features errorimg data:[[[255 255 255]
+  [250 250 250]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[253 253 253]
+  [255 255 255]
+  [249 249 249]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [251 251 251]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ..., 
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 251]
+  [255 255 249]
+  [255 255 251]]
+
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 252]
+  [255 255 251]
+  [255 255 252]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 254 255]
+  ..., 
+  [255 255 254]
+  [255 255 254]
+  [255 255 254]]]img_urlhttp://img00.hc360.com/cs/201309/201309301340524588.jpg
+2017-09-11 11:52:01,195	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 11:52:01,357	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:52:03,173	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 11:52:03,175	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 11:52:03] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 11:52:50,839	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:52:51,165	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:52:52,113	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:52:52,122	File "_internal.py",line 87	INFO:  * Debugger PIN: 855-438-661
+2017-09-11 11:52:53,557	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 11:52:53,558	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 11:52:53,559	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 11:52:53,560	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 11:52:53,563	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 11:52:56,467	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:52:56,471	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:52:56,658	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:52:56,669	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:52:56,728	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:53:00,971	File "app.py",line 112	INFO: error:get face features errorimg data:[[[255 255 255]
+  [250 250 250]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[253 253 253]
+  [255 255 255]
+  [249 249 249]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [251 251 251]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ..., 
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 251]
+  [255 255 249]
+  [255 255 251]]
+
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 252]
+  [255 255 251]
+  [255 255 252]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 254 255]
+  ..., 
+  [255 255 254]
+  [255 255 254]
+  [255 255 254]]]img_urlhttp://img00.hc360.com/cs/201309/201309301340524588.jpg
+2017-09-11 11:53:00,975	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 11:53:01,146	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:53:02,916	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 11:53:02,919	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 11:53:02] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 11:56:51,211	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:56:51,489	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:56:52,937	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:56:52,979	File "_internal.py",line 87	INFO:  * Debugger PIN: 855-438-661
+2017-09-11 11:56:58,225	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 11:56:58,226	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 11:56:58,230	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 11:56:58,232	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 11:56:58,233	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 11:57:00,916	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:57:01,739	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:57:01,792	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:57:01,793	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/bb5fdf43-ce15-4e79-a99e-a45606ca2421.jpg_wh1200.jpg.....
+2017-09-11 11:57:01,863	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:57:01,953	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:57:02,448	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:57:07,172	File "app.py",line 112	INFO: error:get face features errorimg data:[[[142 152 116]
+  [101 106  77]
+  [109 110  90]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ [[149 159 123]
+  [ 96 101  72]
+  [ 83  85  65]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ [[151 158 125]
+  [ 88  95  68]
+  [ 72  77  56]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ ..., 
+ [[201 214 212]
+  [206 214 214]
+  [204 214 214]
+  ..., 
+  [233 224 210]
+  [230 221 207]
+  [230 220 203]]
+
+ [[201 214 212]
+  [207 215 214]
+  [206 216 216]
+  ..., 
+  [228 221 206]
+  [226 217 203]
+  [223 215 198]]
+
+ [[201 214 212]
+  [206 214 213]
+  [204 214 214]
+  ..., 
+  [226 219 204]
+  [223 216 199]
+  [221 213 196]]]img_urlhttp://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg
+2017-09-11 11:57:07,452	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 11:57:07,475	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 11:57:07] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 11:57:56,101	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 11:57:56,330	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 11:57:57,321	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 11:57:57,330	File "_internal.py",line 87	INFO:  * Debugger PIN: 855-438-661
+2017-09-11 11:57:58,485	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 11:57:58,489	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 11:57:58,490	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 11:57:58,492	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 11:57:58,492	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 11:58:00,608	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:58:00,647	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:58:00,728	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:58:00,730	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/bb5fdf43-ce15-4e79-a99e-a45606ca2421.jpg_wh1200.jpg.....
+2017-09-11 11:58:00,764	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:58:00,806	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:58:00,965	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:58:01,772	File "app.py",line 131	INFO: detect success!
+2017-09-11 11:58:01,779	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 11:58:01,938	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:58:09,434	File "app.py",line 131	INFO: detect success!
+2017-09-11 11:58:09,507	File "app.py",line 112	INFO: error:get face features errorimg data:[[[255 255 255]
+  [250 250 250]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[253 253 253]
+  [255 255 255]
+  [249 249 249]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [251 251 251]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ..., 
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 251]
+  [255 255 249]
+  [255 255 251]]
+
+ [[255 255 254]
+  [255 255 255]
+  [255 253 255]
+  ..., 
+  [255 255 252]
+  [255 255 251]
+  [255 255 252]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 254 255]
+  ..., 
+  [255 255 254]
+  [255 255 254]
+  [255 255 254]]]img_urlhttp://img00.hc360.com/cs/201309/201309301340524588.jpg
+2017-09-11 11:58:09,532	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 11:58:09,747	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 11:58:12,444	File "app.py",line 131	INFO: detect success!
+2017-09-11 11:58:13,400	File "app.py",line 131	INFO: detect success!
+2017-09-11 11:58:15,357	File "app.py",line 131	INFO: detect success!
+2017-09-11 11:58:16,569	File "app.py",line 131	INFO: detect success!
+2017-09-11 11:59:16,843	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 12:00:09,036	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 12:00:08] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 12:02:51,841	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 12:02:51,877	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 12:02:52,033	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 12:02:52,066	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 12:02:52,073	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 12:02:55,420	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:02:55,422	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:02:55,478	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:02:55,763	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:02:55,773	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/bb5fdf43-ce15-4e79-a99e-a45606ca2421.jpg_wh1200.jpg.....
+2017-09-11 12:02:55,842	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:02:56,317	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:32:03,314	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-11 12:32:03,320	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:32:03,969	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:32:03,980	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 12:33:54,864	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 12:33:54,865	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-11 12:33:54,866	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-11 12:33:54,868	File "app.py",line 87	INFO: downloading picture: http://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg.....
+2017-09-11 12:33:54,869	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/b52f1bcc-bbc2-4f05-8e29-54c3234e0de0.jpg_wh1200.jpg.....
+2017-09-11 12:33:57,174	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:33:57,175	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:33:57,726	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:33:57,727	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/bb5fdf43-ce15-4e79-a99e-a45606ca2421.jpg_wh1200.jpg.....
+2017-09-11 12:33:57,725	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:33:57,763	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:33:58,035	File "app.py",line 131	INFO: detect success!
+2017-09-11 12:33:58,037	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/26/649e96a3-62c8-4312-894c-5f4f47927f20.jpg_wh1200.jpg.....
+2017-09-11 12:33:58,109	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:33:58,265	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:34:01,907	File "app.py",line 131	INFO: detect success!
+2017-09-11 12:34:01,912	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 12:34:02,133	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:34:06,260	File "app.py",line 112	INFO: error:get face features errorimg data:[[[161 203 202]
+  [202 229 226]
+  [239 249 243]
+  ..., 
+  [254 251 247]
+  [254 251 247]
+  [254 251 247]]
+
+ [[161 203 202]
+  [202 229 226]
+  [239 249 243]
+  ..., 
+  [255 252 248]
+  [254 251 247]
+  [254 251 247]]
+
+ [[161 203 202]
+  [201 228 225]
+  [239 249 243]
+  ..., 
+  [255 252 248]
+  [255 252 248]
+  [254 251 247]]
+
+ ..., 
+ [[ 16  83  38]
+  [ 16  83  38]
+  [ 16  83  38]
+  ..., 
+  [144 153 140]
+  [142 150 139]
+  [140 148 137]]
+
+ [[ 16  82  40]
+  [ 16  82  40]
+  [ 16  82  40]
+  ..., 
+  [134 144 132]
+  [131 140 130]
+  [127 138 128]]
+
+ [[ 16  82  40]
+  [ 16  82  40]
+  [ 16  82  40]
+  ..., 
+  [124 134 122]
+  [120 131 123]
+  [116 129 121]]]img_urlhttp://seopic.699pic.com/photo/2016/08/28/bb5fdf43-ce15-4e79-a99e-a45606ca2421.jpg_wh1200.jpg
+2017-09-11 12:34:07,767	File "app.py",line 131	INFO: detect success!
+2017-09-11 12:34:07,798	File "app.py",line 112	INFO: error:get face features errorimg data:[[[142 152 116]
+  [101 106  77]
+  [109 110  90]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ [[149 159 123]
+  [ 96 101  72]
+  [ 83  85  65]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ [[151 158 125]
+  [ 88  95  68]
+  [ 72  77  56]
+  ..., 
+  [254 254 254]
+  [254 254 254]
+  [254 254 254]]
+
+ ..., 
+ [[201 214 212]
+  [206 214 214]
+  [204 214 214]
+  ..., 
+  [233 224 210]
+  [230 221 207]
+  [230 220 203]]
+
+ [[201 214 212]
+  [207 215 214]
+  [206 216 216]
+  ..., 
+  [228 221 206]
+  [226 217 203]
+  [223 215 198]]
+
+ [[201 214 212]
+  [206 214 213]
+  [204 214 214]
+  ..., 
+  [226 219 204]
+  [223 216 199]
+  [221 213 196]]]img_urlhttp://img95.699pic.com/photo/2016/08/26/f27bbfbc-7b49-4e07-98b7-62284f2a4f41.jpg_wh860.jpg
+2017-09-11 12:34:08,490	File "app.py",line 131	INFO: detect success!
+2017-09-11 12:34:09,471	File "app.py",line 131	INFO: detect success!
+2017-09-11 12:34:46,125	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 12:35:09,579	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 12:35:09] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 12:52:44,489	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-11 12:52:44,498	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:52:45,207	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:52:45,218	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 12:52:50,295	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 12:52:51,264	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:52:51,270	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 12:52:51,272	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 12:52:51] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 12:53:32,766	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:53:32,782	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:53:32,959	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:53:34,062	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:53:34,073	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 12:53:35,841	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 12:53:36,407	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:53:36,417	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 12:53:36,426	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 12:53:36] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 12:53:41,912	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:53:43,217	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:53:43,228	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 12:55:14,375	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:55:14,379	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:55:14,535	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:55:14,541	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:55:15,779	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:55:15,792	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:55:15,794	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 12:55:15,806	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 12:55:29,001	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:55:29,005	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:55:29,141	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:55:29,163	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:55:30,810	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:55:30,825	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 12:55:30,852	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:55:30,862	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 12:55:43,431	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 12:55:43,973	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:55:43,987	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 12:55:43,990	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 12:55:43] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 12:56:51,834	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:56:51,838	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:56:51,934	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:56:51,935	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:56:53,458	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:56:53,476	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 12:56:53,724	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:56:53,736	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 12:56:55,812	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:56:55,965	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:56:56,580	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:56:56,732	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:56:57,397	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:56:57,427	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 12:56:58,172	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:56:58,180	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 12:57:03,285	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:57:03,431	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:57:03,561	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:57:03,701	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:57:05,838	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:57:05,857	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 12:57:06,377	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:57:06,388	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 12:57:08,091	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 12:57:09,014	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:57:09,017	File "app.py",line 138	INFO: detect success!
+2017-09-11 12:57:09,024	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 12:57:09,026	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 12:57:09] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 12:59:39,106	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:59:39,246	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:59:39,806	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 12:59:39,995	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 12:59:40,223	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:59:40,232	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 12:59:40,939	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 12:59:40,950	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 12:59:44,199	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-11 12:59:44,769	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 12:59:44,770	File "app.py",line 139	INFO: detect success!
+2017-09-11 12:59:44,776	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 12:59:44,777	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 12:59:44] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 13:00:40,886	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:00:41,425	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:00:44,159	File "app.py",line 132	INFO: detect success!
+2017-09-11 13:00:56,496	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 13:01:05,994	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:01:05] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 13:06:05,694	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:06:05,695	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:06:05,899	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:06:06,165	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:06:07,300	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:06:07,312	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 13:06:07,575	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:06:07,588	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 13:06:12,406	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:06:12,565	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:06:12,676	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:06:12,786	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:06:13,750	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:06:13,768	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 13:06:13,972	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:06:13,984	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 13:07:32,450	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-11 13:07:32,454	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:07:33,140	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:07:33,147	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:07:45,613	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:07:46,146	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:07:48,816	File "app.py",line 132	INFO: detect success!
+2017-09-11 13:07:48,891	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 13:07:48,894	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:07:48] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 13:09:33,023	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:09:33,022	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:09:33,025	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:09:33,157	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:09:33,176	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:09:33,203	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:09:35,549	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:09:35,569	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:09:35,575	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 13:09:35,593	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 13:09:35,686	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:09:35,700	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:11:13,731	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:11:13,785	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:11:13,857	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:11:13,865	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:11:14,027	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:11:14,033	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:11:15,793	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:11:15,803	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 13:11:15,872	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:11:15,891	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:11:15,948	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:11:15,960	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 13:11:24,994	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:11:25,059	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:11:25,108	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:11:25,115	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:11:25,242	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:11:25,244	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:11:27,009	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:11:27,022	File "_internal.py",line 87	INFO:  * Debugger PIN: 738-759-877
+2017-09-11 13:11:27,074	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:11:27,088	File "_internal.py",line 87	INFO:  * Debugger PIN: 184-279-373
+2017-09-11 13:11:27,177	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:11:27,188	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:11:28,393	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:11:29,028	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:11:31,556	File "app.py",line 133	INFO: detect success!
+2017-09-11 13:11:31,629	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 13:11:31,633	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:11:31] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 13:14:24,501	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:14:24,664	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:14:25,171	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:14:25,173	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:14:25,339	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:14:25,339	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:14:44,561	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-11 13:14:44,566	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:14:45,263	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:14:45,271	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:14:47,174	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:14:47,301	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:14:49,898	File "app.py",line 133	INFO: detect success!
+2017-09-11 13:14:49,963	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 13:14:49,967	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:14:49] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 13:15:00,083	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:15:00,244	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:15:01,198	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:15:01,216	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:15:15,437	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:15:15,494	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:15:16,353	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:15:16,363	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:15:52,840	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:15:52,922	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:15:53,855	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:15:53,867	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:17:03,711	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:17:03,840	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:17:04,773	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:17:04,782	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:17:24,054	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:17:24,128	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:17:24,811	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:17:24,819	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:17:37,985	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:17:38,064	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:17:38,840	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:17:38,849	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:20:57,540	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-11 13:20:57,549	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:20:58,496	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:20:58,508	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:24:19,985	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:24:20,556	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:24:22,540	File "app.py",line 130	INFO: detect success!
+2017-09-11 13:24:22,546	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 13:24:22,549	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:24:22] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 13:24:51,583	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:24:51,776	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:24:53,593	File "app.py",line 130	INFO: detect success!
+2017-09-11 13:24:53,602	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 13:24:53,604	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:24:53] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 13:33:21,778	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:33:21,876	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:33:22,091	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:33:23,236	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:33:23,246	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:33:23,392	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:33:24,772	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:33:24,781	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:33:31,897	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:33:32,015	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:33:32,389	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:33:32,587	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:33:33,104	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:33:33,131	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:33:33,871	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:33:33,883	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:33:46,074	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:33:46,197	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:33:46,349	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:33:46,440	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:33:47,251	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:33:47,275	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:33:47,597	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:33:47,606	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:33:58,491	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:33:58,572	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:33:58,791	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:33:58,894	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:33:59,950	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:33:59,960	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:34:00,159	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:34:00,168	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:34:03,407	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:34:03,544	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:34:05,453	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 13:34:05,456	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:34:05] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 13:34:20,418	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:34:20,549	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:34:21,214	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:34:21,340	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:34:21,777	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:34:21,799	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:34:22,252	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:34:22,259	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:34:23,542	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:34:24,943	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:34:26,860	File "app.py",line 134	INFO: detect success!
+2017-09-11 13:34:26,909	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 13:34:26,923	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:34:26] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 13:34:41,500	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:34:41,691	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:34:42,118	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:34:42,291	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:34:42,853	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:34:42,875	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:34:43,342	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:34:43,350	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:34:51,016	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:34:51,107	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:34:51,487	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:34:51,703	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:34:52,576	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:34:52,610	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:34:53,194	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:34:53,205	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:35:01,796	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:35:01,875	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:35:02,367	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:35:02,522	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:35:03,168	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:35:03,179	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:35:03,796	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:35:03,805	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:35:39,074	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:35:39,251	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:35:41,483	File "app.py",line 134	INFO: detect success!
+2017-09-11 13:35:41,541	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:35:41] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 13:44:36,524	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:44:36,527	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:44:36,670	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:44:36,695	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:44:37,975	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:44:37,987	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:44:38,010	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:44:38,024	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:44:41,218	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:44:41,781	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:44:43,680	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 13:44:43,683	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:44:43] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 13:44:56,226	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:44:56,247	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 13:44:56,368	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:44:56,402	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 13:44:57,569	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:44:57,580	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 13:44:57,587	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 13:44:57,598	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 13:44:57,961	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 13:44:58,078	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 13:44:59,980	File "app.py",line 133	INFO: detect success!
+2017-09-11 13:45:00,026	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 13:45:00] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 14:53:51,656	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 14:53:51,663	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 14:53:51,809	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 14:53:51,840	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 14:53:53,009	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 14:53:53,018	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 14:53:53,268	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 14:53:53,280	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 14:54:02,200	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 14:54:02,258	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 14:54:02,432	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 14:54:02,541	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 14:54:03,252	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 14:54:03,263	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 14:54:03,688	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 14:54:03,701	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 14:54:09,814	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 14:54:09,894	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 14:54:10,394	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 14:54:10,577	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 14:54:11,062	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 14:54:11,074	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 14:54:11,549	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 14:54:11,560	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 14:54:15,006	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 14:54:17,308	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 14:54:19,096	File "app.py",line 135	INFO: detect success!
+2017-09-11 14:54:19,142	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 14:54:19] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 15:06:49,835	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:06:50,739	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:06:52,596	File "app.py",line 135	INFO: detect success!
+2017-09-11 15:06:52,645	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:06:52] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 15:10:34,042	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:10:34,191	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:10:34,326	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:10:34,445	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:10:35,424	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:10:35,440	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:10:35,612	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:10:35,622	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:10:37,788	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:10:38,893	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:10:40,823	File "app.py",line 136	INFO: detect success!
+2017-09-11 15:10:40,861	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:10:40] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 15:10:57,749	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:10:57,862	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:10:57,895	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:10:58,001	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:10:59,085	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:10:59,098	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:10:59,335	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:10:59,348	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:11:00,405	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:11:00,519	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:11:01,200	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:11:01,313	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:11:01,642	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:11:01,651	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:11:02,154	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:11:02,164	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:11:03,056	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:11:03,546	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:11:05,496	File "app.py",line 136	INFO: detect success!
+2017-09-11 15:11:05,543	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:11:05] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 15:11:28,499	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:11:28,647	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:11:28,997	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:11:29,176	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:11:29,705	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:11:29,718	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:11:30,226	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:11:30,235	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:11:32,095	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:11:32,749	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:11:34,737	File "app.py",line 136	INFO: detect success!
+2017-09-11 15:11:34,793	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:11:34] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 15:14:44,989	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:14:45,100	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:14:45,392	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:14:45,503	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:14:46,486	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:14:46,500	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:14:46,709	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:14:46,719	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:14:47,632	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:14:48,516	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:14:50,349	File "app.py",line 136	INFO: detect success!
+2017-09-11 15:14:50,399	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:14:50] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 15:15:43,187	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:15:43,290	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:15:43,393	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:15:43,517	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:15:44,877	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:15:44,890	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:15:44,928	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:15:44,938	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:15:47,017	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:15:47,489	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:15:49,380	File "app.py",line 136	INFO: detect success!
+2017-09-11 15:15:49,432	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:15:49] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 15:16:09,300	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:16:09,438	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:16:10,307	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:16:10,360	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:16:10,374	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:16:10,545	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:16:11,243	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:16:11,251	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:16:12,853	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:16:13,312	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:16:15,865	File "app.py",line 136	INFO: detect success!
+2017-09-11 15:16:15,935	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:16:15] "POST /mtcnn HTTP/1.1" 500 -
+2017-09-11 15:16:23,476	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:16:23,642	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:16:23,672	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:16:23,845	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:16:24,912	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:16:24,929	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:16:25,063	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:16:25,077	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:16:34,139	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:16:34,577	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:16:36,966	File "app.py",line 136	INFO: detect success!
+2017-09-11 15:16:37,408	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:16:37,673	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:16:37] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:18:12,428	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:18:12,517	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:18:12,547	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:18:12,602	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:18:13,824	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:18:13,838	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:18:13,911	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:18:13,924	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:18:40,270	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:18:40,338	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:18:40,368	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:18:40,485	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:18:41,785	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:18:41,813	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:18:42,060	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:18:42,073	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:22:47,995	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:22:48,091	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:22:48,167	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:22:48,332	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:22:49,373	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:22:49,400	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:22:49,700	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:22:49,709	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:22:51,623	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:22:52,637	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:22:54,437	File "app.py",line 133	INFO: detect success!
+2017-09-11 15:22:54,767	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:22:54,941	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:22:54] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:23:30,967	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:23:31,130	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:23:31,266	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:23:31,391	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:23:32,252	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:23:32,272	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:23:32,506	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:23:32,515	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:23:33,487	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:23:33,836	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:23:35,804	File "app.py",line 133	INFO: detect success!
+2017-09-11 15:23:36,135	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:23:36,330	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:23:36] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:24:55,266	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:24:55,409	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:24:55,545	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:24:55,712	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:24:56,645	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:24:56,660	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:24:56,737	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:24:56,744	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:24:57,710	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:25:00,874	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:25:03,007	File "app.py",line 133	INFO: detect success!
+2017-09-11 15:25:03,016	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:25:03,019	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:25:03] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:25:22,052	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:25:22,134	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:25:22,190	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:25:22,283	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:25:23,615	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:25:23,625	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:25:23,626	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:25:23,634	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:25:24,498	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:25:26,265	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:25:28,548	File "app.py",line 135	INFO: detect success!
+2017-09-11 15:25:28,559	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:25:28,565	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:25:28] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:25:43,964	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:25:43,967	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:25:44,134	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:25:44,166	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:25:45,628	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:25:45,636	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:25:45,698	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:25:45,710	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:25:46,125	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:25:48,662	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:25:50,628	File "app.py",line 135	INFO: detect success!
+2017-09-11 15:25:50,655	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:25:50,660	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:25:50] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:26:55,536	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:26:55,639	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:26:55,658	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:26:55,807	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:26:56,985	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:26:57,006	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:26:57,053	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:26:57,060	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:26:59,299	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:27:00,637	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:27:02,529	File "app.py",line 134	INFO: detect success!
+2017-09-11 15:27:02,838	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:27:03,031	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:27:03] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:31:29,359	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:31:29,361	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:31:29,540	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:31:29,597	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:31:30,985	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:31:30,999	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:31:31,094	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:31:31,103	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:32:38,984	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:32:39,334	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:32:43,611	File "app.py",line 134	INFO: detect success!
+2017-09-11 15:32:43,963	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:32:44,127	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:32:44] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:33:56,922	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:33:56,926	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:33:57,252	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:33:57,364	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:33:59,557	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:33:59,563	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:33:59,590	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:33:59,590	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:34:01,326	File "app.py",line 87	INFO: downloading picture: http://seopic.699pic.com/photo/2016/08/28/b21dc4b0-1f06-4886-8a9c-8b3310001662.jpg_wh1200.jpg.....
+2017-09-11 15:34:02,584	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:34:14,496	File "app.py",line 134	INFO: detect success!
+2017-09-11 15:34:14,827	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:34:15,314	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:34:15] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:44:23,059	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:44:23,075	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:44:24,346	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:44:27,301	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:44:28,528	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:44:28,571	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:44:29,291	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:44:29,306	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:44:29,362	File "app.py",line 87	INFO: downloading picture: http://www.wanhuajing.com/pic/1707/2910/2641378/5_624_306.jpg.....
+2017-09-11 15:44:29,910	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:44:31,909	File "app.py",line 134	INFO: detect success!
+2017-09-11 15:44:32,313	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:44:32,558	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:44:32] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:46:03,774	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:46:03,897	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:46:03,972	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:46:04,050	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:46:05,996	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:46:06,008	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:46:06,010	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:46:06,026	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:46:16,678	File "app.py",line 87	INFO: downloading picture: http://www.wanhuajing.com/pic/1707/2910/2641378/5_624_306.jpg.....
+2017-09-11 15:46:16,830	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:47:21,302	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:47:21,463	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:47:23,259	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:47:25,991	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:47:26,027	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:47:26,792	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:47:27,893	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:47:27,906	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:47:27,934	File "app.py",line 87	INFO: downloading picture: http://www.wanhuajing.com/pic/1707/2910/2641378/5_624_306.jpg.....
+2017-09-11 15:47:29,178	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:47:34,059	File "app.py",line 134	INFO: detect success!
+2017-09-11 15:47:34,462	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:47:34,664	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:47:34] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:48:26,762	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:48:26,903	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:48:27,011	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:48:27,055	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:48:29,246	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:48:29,271	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:48:29,287	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:48:29,309	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:49:59,449	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:49:59,499	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-11 15:49:59,698	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:49:59,731	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:50:01,381	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:50:01,392	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:50:01,406	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:50:01,411	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:50:02,090	File "app.py",line 87	INFO: downloading picture: http://www.wanhuajing.com/pic/1707/2910/2641378/5_624_306.jpg.....
+2017-09-11 15:50:02,757	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:50:04,369	File "app.py",line 135	INFO: detect success!
+2017-09-11 15:50:04,693	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:50:04,868	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:50:04] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:51:41,867	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:51:41,868	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:51:42,089	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:51:42,117	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:51:43,956	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:51:43,972	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:51:43,978	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:51:43,992	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:51:46,017	File "app.py",line 87	INFO: downloading picture: http://www.wanhuajing.com/pic/1707/2910/2641378/5_624_306.jpg.....
+2017-09-11 15:51:48,052	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:51:51,530	File "app.py",line 135	INFO: detect success!
+2017-09-11 15:51:51,857	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:51:52,032	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:51:52] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-11 15:52:45,990	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:52:46,190	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:52:46,837	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-11 15:52:46,982	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-11 15:52:47,694	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:52:47,714	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-11 15:52:48,391	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-11 15:52:48,401	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-11 15:52:57,184	File "app.py",line 87	INFO: downloading picture: http://www.wanhuajing.com/pic/1707/2910/2641378/5_624_306.jpg.....
+2017-09-11 15:52:57,293	File "app.py",line 102	INFO: detecting face .....
+2017-09-11 15:52:58,856	File "app.py",line 135	INFO: detect success!
+2017-09-11 15:52:59,231	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-11 15:52:59,411	File "_internal.py",line 87	INFO: 127.0.0.1 - - [11/Sep/2017 15:52:59] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 02:52:42,947	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 02:52:43,104	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 02:52:43,285	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 02:52:43,378	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 02:52:44,751	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 02:52:44,772	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 02:52:44,936	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 02:52:44,950	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 02:54:35,262	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 02:54:35,376	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 02:54:35,392	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 02:54:35,487	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 02:54:37,078	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 02:54:37,092	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 02:54:37,108	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 02:54:37,109	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 02:54:56,490	File "app.py",line 141	INFO: reading local picture: ./test.jpg.....
+2017-09-12 02:54:56,508	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 02:54:56,511	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 02:54:56] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 02:56:30,826	File "app.py",line 141	INFO: reading local picture: ./test.jpg.....
+2017-09-12 02:56:30,834	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 02:56:30,837	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 02:56:30] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 02:57:27,261	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 02:57:27,264	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 02:57:27,436	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 02:57:27,443	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 02:57:28,657	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 02:57:28,671	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 02:57:28,749	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 02:57:28,764	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 02:57:31,907	File "app.py",line 141	INFO: reading local picture: ./test.jpg.....
+2017-09-12 02:57:31,920	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 02:57:31,925	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 02:57:31] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 02:59:09,849	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 02:59:09,935	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 02:59:09,952	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 02:59:10,103	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 02:59:11,507	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 02:59:11,517	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 02:59:11,663	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 02:59:11,673	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 02:59:12,164	File "app.py",line 141	INFO: reading local picture: ./test.jpg.....
+2017-09-12 02:59:12,200	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 02:59:15,126	File "app.py",line 179	INFO: detect success!
+2017-09-12 02:59:15,436	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 02:59:15,632	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 02:59:15] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:00:30,530	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:00:30,674	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:00:30,680	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:00:30,875	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:00:32,122	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:00:32,142	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:00:32,329	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:00:32,344	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:00:33,541	File "app.py",line 141	INFO: reading local picture: ./test.jpg.....
+2017-09-12 03:00:33,570	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:00:36,421	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:00:36,767	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 03:00:36,991	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 03:00:36] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:02:16,382	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:02:16,480	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:02:16,757	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:02:17,000	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:02:17,761	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:02:17,779	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:02:18,267	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:02:18,278	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:02:19,225	File "app.py",line 141	INFO: reading local picture: ./test.jpg.....
+2017-09-12 03:02:19,253	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:02:22,185	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:02:22,522	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 03:02:22,755	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 03:02:22] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:02:52,868	File "app.py",line 141	INFO: reading local picture: ./test.jpg.....
+2017-09-12 03:02:52,893	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:02:55,572	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:02:55,828	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 03:02:56,036	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 03:02:56] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:03:30,298	File "app.py",line 141	INFO: reading local picture: ./test2.jpg.....
+2017-09-12 03:03:30,322	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:03:30,745	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 03:03:30,773	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 03:03:30] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:03:45,959	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-12 03:03:46,067	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:03:46,472	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/mtcnn_detector.py', reloading
+2017-09-12 03:03:46,693	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:03:47,343	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:03:47,366	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:03:48,165	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:03:48,181	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:03:49,654	File "app.py",line 141	INFO: reading local picture: ./test2.jpg.....
+2017-09-12 03:03:49,668	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:03:51,081	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:03:51,413	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 03:03:51,569	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 03:03:51] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:05:17,401	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:05:17,515	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:05:17,516	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:05:17,624	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:05:19,046	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:05:19,083	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:05:19,349	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:05:19,366	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:05:20,858	File "app.py",line 141	INFO: reading local picture: ./test2.jpg.....
+2017-09-12 03:05:20,871	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:05:22,311	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:05:22,632	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 03:05:22,812	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 03:05:22] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:06:05,016	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:06:05,144	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:06:05,724	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:06:05,910	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:06:06,462	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:06:06,486	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:06:07,335	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:06:07,347	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:06:33,714	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:06:33,824	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:06:33,902	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:06:34,064	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:06:35,515	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:06:35,535	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:06:35,890	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:06:35,900	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:06:36,947	File "app.py",line 142	INFO: reading local picture: ./test2.jpg.....
+2017-09-12 03:06:36,963	File "app.py",line 157	INFO: detecting face .....
+2017-09-12 03:06:38,999	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:06:39,330	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 03:06:39,521	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 03:06:39] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:12:51,861	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:12:51,955	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:12:52,172	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:12:52,362	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:12:53,131	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:12:53,143	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:12:53,770	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:12:53,785	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:20:32,817	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:20:32,899	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:20:33,459	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:20:33,657	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:20:34,136	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:20:34,149	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:20:34,717	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:20:34,725	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:20:38,257	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:20:38,410	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:20:38,835	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:20:38,985	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:20:39,727	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:20:39,756	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:20:40,372	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:20:40,387	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:20:44,483	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:20:44,605	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:20:44,900	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:20:45,036	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:20:45,985	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:20:45,998	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:20:46,551	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:20:46,566	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:21:04,293	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:21:04,392	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:21:04,838	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:21:05,069	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:21:05,429	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:21:05,457	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:21:06,001	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:21:06,011	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:21:08,105	File "app.py",line 142	INFO: reading local picture: ./test2.jpg.....
+2017-09-12 03:21:08,117	File "app.py",line 153	INFO: detecting face .....
+2017-09-12 03:21:09,486	File "app.py",line 180	INFO: detect success!
+2017-09-12 03:21:09,496	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 03:21:09,500	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 03:21:09] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:23:53,618	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:23:53,699	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:23:54,088	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:23:54,283	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:23:54,770	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:23:54,778	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:23:55,371	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:23:55,381	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:24:11,030	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:24:11,108	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:24:11,616	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:24:11,766	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:24:12,296	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:24:12,310	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:24:13,086	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:24:13,100	File "_internal.py",line 87	INFO:  * Debugger PIN: 139-525-229
+2017-09-12 03:25:53,637	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-12 03:25:53,639	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-12 03:25:53,643	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-12 03:25:54,981	File "app.py",line 100	INFO: detecting face .....
+2017-09-12 03:25:55,048	File "app.py",line 100	INFO: detecting face .....
+2017-09-12 03:25:55,519	File "app.py",line 133	INFO: detect success!
+2017-09-12 03:25:55,561	File "app.py",line 100	INFO: detecting face .....
+2017-09-12 03:25:55,566	File "app.py",line 140	INFO: detect success!
+2017-09-12 03:25:56,425	File "app.py",line 133	INFO: detect success!
+2017-09-12 03:25:56,432	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 03:25:56,440	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 03:25:56] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:26:28,671	File "app.py",line 87	INFO: downloading picture: https://ss3.bdstatic.com/70cFv8S_Q1YnxGkpoWK1HF6hhy/it/u=3995761121,34697482&amp;fm=27&amp;gp=0.jpg.....
+2017-09-12 03:26:28,672	File "app.py",line 87	INFO: downloading picture: http://img00.hc360.com/cs/201309/201309301340524588.jpg.....
+2017-09-12 03:26:28,673	File "app.py",line 87	INFO: downloading picture: http://img.qqzhi.com/upload/img_4_2232071970D3116521394_23.jpg.....
+2017-09-12 03:26:28,769	File "app.py",line 100	INFO: detecting face .....
+2017-09-12 03:26:28,791	File "app.py",line 100	INFO: detecting face .....
+2017-09-12 03:26:29,180	File "app.py",line 133	INFO: detect success!
+2017-09-12 03:26:29,994	File "app.py",line 133	INFO: detect success!
+2017-09-12 03:26:36,996	File "app.py",line 100	INFO: detecting face .....
+2017-09-12 03:26:36,998	File "app.py",line 140	INFO: detect success!
+2017-09-12 03:26:37,004	File "app.py",line 79	INFO: 加载入文件完成...
+2017-09-12 03:26:37,007	File "_internal.py",line 87	INFO: 127.0.0.1 - - [12/Sep/2017 03:26:37] "POST /mtcnn HTTP/1.1" 200 -
+2017-09-12 03:32:27,055	File "app.py",line 143	INFO: reading local picture: ./imgs/1.jpg.....
+2017-09-12 03:32:27,056	File "app.py",line 143	INFO: reading local picture: ./imgs/10.jpg.....
+2017-09-12 03:32:27,057	File "app.py",line 143	INFO: reading local picture: ./imgs/12.jpg.....
+2017-09-12 03:32:27,056	File "app.py",line 143	INFO: reading local picture: ./imgs/11.jpg.....
+2017-09-12 03:32:27,057	File "app.py",line 143	INFO: reading local picture: ./imgs/13.jpeg.....
+2017-09-12 03:32:27,076	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:27,126	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:27,145	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:27,238	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:29,565	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:29,753	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:32:29,758	File "app.py",line 143	INFO: reading local picture: ./imgs/15.png.....
+2017-09-12 03:32:29,836	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:30,258	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:32:30,259	File "app.py",line 143	INFO: reading local picture: ./imgs/18.jpeg.....
+2017-09-12 03:32:30,339	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:41,617	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:32:41,632	File "app.py",line 143	INFO: reading local picture: ./imgs/22.jpeg.....
+2017-09-12 03:32:41,735	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:42,346	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:32:42,350	File "app.py",line 143	INFO: reading local picture: ./imgs/2.png.....
+2017-09-12 03:32:42,424	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:42,589	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:32:42,590	File "app.py",line 143	INFO: reading local picture: ./imgs/5.jpg.....
+2017-09-12 03:32:42,599	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:43,588	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:32:43,589	File "app.py",line 143	INFO: reading local picture: ./imgs/24.jpg.....
+2017-09-12 03:32:43,674	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:48,105	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:32:48,106	File "app.py",line 143	INFO: reading local picture: ./imgs/7.jpg.....
+2017-09-12 03:32:48,118	File "app.py",line 154	INFO: detecting face .....
+2017-09-12 03:32:49,396	File "app.py",line 181	INFO: detect success!
+2017-09-12 03:33:42,912	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:33:43,625	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:33:48,024	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:33:51,416	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:33:51,505	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:36:58,881	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:36:58,964	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:36:59,961	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:36:59,970	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:40:28,836	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-12 03:40:28,840	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:40:29,558	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:40:29,569	File "_internal.py",line 87	INFO:  * Debugger PIN: 226-069-795
+2017-09-12 03:40:35,362	File "app.py",line 145	INFO: reading local picture: ./imgs/10.jpg.....
+2017-09-12 03:40:35,364	File "app.py",line 145	INFO: reading local picture: ./imgs/11.jpg.....
+2017-09-12 03:40:35,365	File "app.py",line 145	INFO: reading local picture: ./imgs/1.jpg.....
+2017-09-12 03:40:35,366	File "app.py",line 145	INFO: reading local picture: ./imgs/12.jpg.....
+2017-09-12 03:40:35,368	File "app.py",line 145	INFO: reading local picture: ./imgs/13.jpeg.....
+2017-09-12 03:40:35,383	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:35,397	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:35,404	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:35,431	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:37,667	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:40:37,671	File "app.py",line 145	INFO: reading local picture: ./imgs/15.png.....
+2017-09-12 03:40:37,686	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:38,063	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:38,436	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:40:38,438	File "app.py",line 145	INFO: reading local picture: ./imgs/16.jpg.....
+2017-09-12 03:40:38,454	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:47,411	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:40:47,435	File "app.py",line 145	INFO: reading local picture: ./imgs/20.jpeg.....
+2017-09-12 03:40:47,504	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:48,502	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:40:48,503	File "app.py",line 145	INFO: reading local picture: ./imgs/17.jpg.....
+2017-09-12 03:40:48,539	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:48,691	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:40:48,693	File "app.py",line 145	INFO: reading local picture: ./imgs/3.jpeg.....
+2017-09-12 03:40:48,703	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:49,444	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:40:49,450	File "app.py",line 145	INFO: reading local picture: ./imgs/8.jpg.....
+2017-09-12 03:40:49,462	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:49,912	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:40:49,914	File "app.py",line 145	INFO: reading local picture: ./imgs/21.png.....
+2017-09-12 03:40:49,933	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:50,815	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:40:50,819	File "app.py",line 145	INFO: reading local picture: ./imgs/4.jpg.....
+2017-09-12 03:40:50,844	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:52,648	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:40:52,652	File "app.py",line 145	INFO: reading local picture: ./imgs/9.jpeg.....
+2017-09-12 03:40:52,664	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:40:53,339	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:41:21,335	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:41:21,338	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:41:22,317	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:41:26,107	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:41:26,192	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:42:15,891	File "_internal.py",line 87	INFO:  * Detected change in '/mtcnn/app.py', reloading
+2017-09-12 03:42:15,979	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:42:16,788	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:42:16,796	File "_internal.py",line 87	INFO:  * Debugger PIN: 453-643-051
+2017-09-12 03:43:06,339	File "_internal.py",line 87	INFO:  * Running on http://127.0.0.1:8080/ (Press CTRL+C to quit)
+2017-09-12 03:43:06,346	File "_internal.py",line 87	INFO:  * Restarting with stat
+2017-09-12 03:43:07,031	File "_internal.py",line 87	WARNING:  * Debugger is active!
+2017-09-12 03:43:07,047	File "_internal.py",line 87	INFO:  * Debugger PIN: 237-944-907
+2017-09-12 03:43:09,456	File "app.py",line 145	INFO: reading local picture: ./imgs/1.jpg.....
+2017-09-12 03:43:09,457	File "app.py",line 145	INFO: reading local picture: ./imgs/10.jpg.....
+2017-09-12 03:43:09,458	File "app.py",line 145	INFO: reading local picture: ./imgs/11.jpg.....
+2017-09-12 03:43:09,462	File "app.py",line 145	INFO: reading local picture: ./imgs/12.jpg.....
+2017-09-12 03:43:09,463	File "app.py",line 145	INFO: reading local picture: ./imgs/13.jpeg.....
+2017-09-12 03:43:09,478	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:09,501	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:09,509	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:09,562	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:11,566	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:11,780	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:11,782	File "app.py",line 145	INFO: reading local picture: ./imgs/15.png.....
+2017-09-12 03:43:11,798	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:12,399	File "app.py",line 160	INFO: error:get face features errorimg data:[[[255 255 255]
+  [246 246 246]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [248 248 248]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[252 252 252]
+  [247 247 247]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ ..., 
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]
+
+ [[255 255 255]
+  [255 255 255]
+  [255 255 255]
+  ..., 
+  [255 255 255]
+  [255 255 255]
+  [255 255 255]]]img_url./imgs/11.jpg
+2017-09-12 03:43:12,480	File "app.py",line 145	INFO: reading local picture: ./imgs/16.jpg.....
+2017-09-12 03:43:12,494	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:14,122	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:14,445	File "app.py",line 145	INFO: reading local picture: ./imgs/18.jpeg.....
+2017-09-12 03:43:14,541	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:24,064	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:24,089	File "app.py",line 145	INFO: reading local picture: ./imgs/20.jpeg.....
+2017-09-12 03:43:24,113	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:24,174	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:24,178	File "app.py",line 145	INFO: reading local picture: ./imgs/22.jpeg.....
+2017-09-12 03:43:24,192	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:24,852	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:24,860	File "app.py",line 145	INFO: reading local picture: ./imgs/17.jpg.....
+2017-09-12 03:43:24,901	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:25,054	File "app.py",line 160	INFO: error:get face features errorimg data:[[[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ ..., 
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]
+
+ [[0 0 0]
+  [0 0 0]
+  [0 0 0]
+  ..., 
+  [0 0 0]
+  [0 0 0]
+  [0 0 0]]]img_url./imgs/20.jpeg
+2017-09-12 03:43:25,056	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:25,057	File "app.py",line 145	INFO: reading local picture: ./imgs/3.jpeg.....
+2017-09-12 03:43:25,064	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:25,141	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:25,145	File "app.py",line 145	INFO: reading local picture: ./imgs/5.jpg.....
+2017-09-12 03:43:25,157	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:26,062	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:26,064	File "app.py",line 145	INFO: reading local picture: ./imgs/8.jpg.....
+2017-09-12 03:43:26,076	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:26,373	File "app.py",line 160	INFO: error:get face features errorimg data:[[[ 91 115 135]
+  [ 91 115 135]
+  [ 92 116 136]
+  ..., 
+  [ 94 105 119]
+  [ 76  85  99]
+  [238 246 255]]
+
+ [[ 90 114 134]
+  [ 90 114 134]
+  [ 91 115 135]
+  ..., 
+  [ 93 104 118]
+  [ 75  84  97]
+  [238 246 255]]
+
+ [[ 89 113 133]
+  [ 90 114 134]
+  [ 90 114 134]
+  ..., 
+  [ 90 103 117]
+  [ 75  84  97]
+  [238 246 255]]
+
+ ..., 
+ [[229 232 237]
+  [229 232 237]
+  [229 232 237]
+  ..., 
+  [133 142 151]
+  [116 125 134]
+  [239 249 255]]
+
+ [[232 235 240]
+  [231 234 239]
+  [230 233 238]
+  ..., 
+  [140 149 158]
+  [126 136 143]
+  [239 249 255]]
+
+ [[234 237 242]
+  [233 236 241]
+  [231 234 239]
+  ..., 
+  [144 153 162]
+  [133 141 148]
+  [240 248 255]]]img_url./imgs/5.jpg
+2017-09-12 03:43:26,388	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:26,638	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:26,643	File "app.py",line 145	INFO: reading local picture: ./imgs/21.png.....
+2017-09-12 03:43:26,676	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:27,098	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:27,393	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:27,397	File "app.py",line 145	INFO: reading local picture: ./imgs/4.jpg.....
+2017-09-12 03:43:27,420	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:29,174	File "app.py",line 183	INFO: detect success!
+2017-09-12 03:43:29,175	File "app.py",line 145	INFO: reading local picture: ./imgs/9.jpeg.....
+2017-09-12 03:43:29,188	File "app.py",line 156	INFO: detecting face .....
+2017-09-12 03:43:29,830	File "app.py",line 183	INFO: detect success!

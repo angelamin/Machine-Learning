@@ -1,8 +1,9 @@
 import cv2
 import numpy as np
-from matplotlib import pyplot as plt
+import _tkinter
+from matplotlib import pyplot
 
-img = cv2.imread('test.jpeg', 0)
-plt.imshow(img, cmap='gray', interpolation='bicubic')
-plt.xticks([]), plt.yticks([])  # to hide tick values on X and Y axis
-plt.show()
+img = cv2.imread('imgs/1.jpg', 0)
+pyplot.imshow(img, cmap='gray', interpolation='bicubic')
+pyplot.xticks([]), pyplot.yticks([])  # to hide tick values on X and Y axis
+pyplot.show()
