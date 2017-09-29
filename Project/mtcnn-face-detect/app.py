@@ -74,6 +74,7 @@ def getLocation():
 
         for u in range(1,process_num+1):
             results.extend(names['result%s' % u])
+        #将得到的结果写入文件
         with open("./data.json","w") as f:
             json.dump(results,f)
         log.info("加载入文件完成...")
@@ -82,7 +83,6 @@ def getLocation():
 def detect_face(image_urls,results):
     for index in range(len(image_urls)):
         img_url = image_urls[index]
-        print 'gg...'
         print img_url
         if img_url.startswith('http') or img_url.startswith('ftp'):
             try:
