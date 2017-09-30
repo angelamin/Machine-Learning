@@ -1,5 +1,4 @@
 #coding:utf-8
-#usr/bin
 import tensorflow as tf
 
 from tensorflow.python.saved_model import builder as saved_model_builder
@@ -43,13 +42,13 @@ def load_image_into_numpy_array(image):
 
 with detection_graph.as_default():
     with tf.Session(graph=detection_graph) as sess:
-        image_path = "./imgs/test.jpg"
-        image = Image.open(image_path)
+        #image_path = "./imgs/test.jpg"
+        #image = Image.open(image_path)
         # the array based representation of the image will be used later in order to prepare the
         # result image with boxes and labels on it.
-        image_np = load_image_into_numpy_array(image)
+        #image_np = load_image_into_numpy_array(image)
         # Expand dimensions since the model expects images to have shape: [1, None, None, 3]
-        image_np_expanded = np.expand_dims(image_np, axis=0)
+        #image_np_expanded = np.expand_dims(image_np, axis=0)
         image_tensor = detection_graph.get_tensor_by_name('image_tensor:0')
         # Each box represents a part of the image where a particular object was detected.
         boxes = detection_graph.get_tensor_by_name('detection_boxes:0')
@@ -59,48 +58,32 @@ with detection_graph.as_default():
         classes = detection_graph.get_tensor_by_name('detection_classes:0')
         num_detections = detection_graph.get_tensor_by_name('num_detections:0')
         # Actual detection.
-        a=datetime.now()
+        #a=datetime.now()
+        '''
         (result_boxes, result_scores, result_classes, result_num_detections) = sess.run(
             [boxes, scores, classes, num_detections],
             feed_dict={image_tensor: image_np_expanded})
-        b=datetime.now()
-        c = b - a
-        print(c.microseconds)
-        print('111111111111222222222222222')
-        print(type(result_boxes))
-        print(type(result_scores))
-        print(type(result_classes))
-        print(type(result_num_detections))
-        print("```````````")
-        print(result_boxes)
-        print("```````````")
-        print(result_scores)
-        print("```````````")
-        print(result_classes)
-        print("```````````")
-        print(result_num_detections)
-
-        i = -1
-        for score in result_scores.flat:
-            if score <= 0.5:
-                print(score)
-                break
-            else:
-                i =i + 1
-
+        '''
         # Visualization of the results of a detection.
         # Export inference model.
-        output_path = "/mnt/output/2"
+        output_path = "/tmp/output/1"
         print 'Exporting trained model to', output_path
         builder = saved_model_builder.SavedModelBuilder(output_path)  #初始化SavedModel
 
         # Build the signature_def_map.
         image_inputs_tensor_info = utils.build_tensor_info(
                         image_tensor)      #将变量生成对应的proto buffer信息
+        '''
         boxes_output_tensor_info = utils.build_tensor_info(tf.convert_to_tensor(result_boxes))
         scores_output_tensor_info = utils.build_tensor_info(tf.convert_to_tensor(result_scores))
         classes_output_tensor_info = utils.build_tensor_info(tf.convert_to_tensor(result_classes))
         num_detections_output_tensor_info = utils.build_tensor_info(tf.convert_to_tensor(result_num_detections))
+	'''
+	
+	boxes_output_tensor_info = utils.build_tensor_info(boxes)
+        scores_output_tensor_info = utils.build_tensor_info(scores)
+        classes_output_tensor_info = utils.build_tensor_info(classes)
+        num_detections_output_tensor_info = utils.build_tensor_info(num_detections)
 
         classification_signature = signature_def_utils.build_signature_def(
             inputs={
@@ -116,7 +99,7 @@ with detection_graph.as_default():
                 'constant_output_num_detections':
                     num_detections_output_tensor_info
             },
-            method_name=signature_constants.CLASSIFY_METHOD_NAME)  #构建分类的签名信息
+            method_name=signature_constants.CLASSIFY_METHOD_NAME) 
 
         legacy_init_op = tf.group(
             tf.initialize_all_tables(), name='legacy_init_op')   #table是一个字符串的映射表
