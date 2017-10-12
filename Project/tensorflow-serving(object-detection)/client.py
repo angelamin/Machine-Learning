@@ -22,6 +22,11 @@ payload = {'img_urls':images}
 
 url = 'http://127.0.0.1:8088/object-detection'
 
+
+
 r = requests.post(url,payload)
 print "代理返回结果。。。。。"
 print(r.text)
+#   with open("./data.json","w") as f:
+#       json.dump(results,f)
+#   log.info("写入文件完成。。。")
