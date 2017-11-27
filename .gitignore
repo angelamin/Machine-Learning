@@ -7,4 +7,16 @@ log/
 ads/
 results-11-12/
 results-11-14
-
+shezheng/
+shezheng_face/
+shezheng_face/
+shezheng_face1/
+model/
+restored_model/
+lfw/
+*.pyc
+TextCNN/data/
+rt-polaritydata
+mail_data/
+runs/
+word2vec/
