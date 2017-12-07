@@ -121,5 +121,5 @@ if __name__ == '__main__':
     crawler = Crawler(0.05)
     # crawler.start('美女', 1, 2)
     # crawler.start('二次元 美女', 3, 3)
-    crawler.start('李克强',3,3)
+    crawler.start('带文字图片',3,1)
     # crawler.start('帅哥', 5)

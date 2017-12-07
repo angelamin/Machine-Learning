@@ -2,11 +2,18 @@
 .DS_Store
 node_modules/
 env/
+
 imgs/
 log/
 ads/
+results/
 results-11-12/
-results-11-14
+results-11-14/
+process_files/
+process_files-11-12/
+process_files-11-14/
+
+
 shezheng/
 shezheng_face/
 shezheng_face/
@@ -15,11 +22,14 @@ model/
 restored_model/
 lfw/
 *.pyc
+
 TextCNN/data/
 rt-polaritydata
 mail_data/
 runs/
 word2vec/
+VOCdevkit/
+pretrain/
 
 
 
@@ -37,6 +47,16 @@ word2vec/
 
 
 
+__pycache__/
+cache/
+logs/
+output/
+build/
+dist/
+*.py[cod]
+*.c[cod]
+*.so
+*.swp
 
 
 
@@ -64,7 +84,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
