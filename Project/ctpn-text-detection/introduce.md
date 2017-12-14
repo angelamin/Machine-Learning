@@ -4,6 +4,8 @@ DETECT_MODE # H represents horizontal mode, O represents oriented mode, default 
 split_label.py  将人工标记的文字部分转换为模型识别的标记方式
 ctpn/text.yml  超参数设置
 
+demo.py  测试demo
+text-recognization.py 上线检测版本(ctpn+OCR)
 
 # training
 ### 环境准备
@@ -20,14 +22,14 @@ gpu运行，将58环境代码同步到gpu
 
 wget
 
-nvidia-docker run -ti -v /data1/shixi_xiamin/ctpn_crnn:/ctpn_crnn_in docker.pub.sina.com.cn:5000/tensorflow_gpu:xiamin       
+nvidia-docker run -ti -p 1889:1889 -v /data1/shixi_xiamin/ctpn_crnn:/ctpn_crnn_in docker.pub.sina.com.cn:5000/tensorflow_gpu:xiamin       
 ```
 
 ```
 将gpu代码同步到58
 cp -r /ctpn_crnn_in /ctpn_crnn
 
-docker commit 1fb415e5b14b docker.pub.sina.com.cn:5000/tensorflow_gpu:xiamin    
+docker commit 8843a55d7d5f docker.pub.sina.com.cn:5000/tensorflow_gpu:xiamin    
 
 docker push docker.pub.sina.com.cn:5000/tensorflow_gpu:xiamin    
 
@@ -39,7 +41,7 @@ docker pull docker.pub.sina.com.cn:5000/tensorflow_gpu:xiamin
 
 docker run -ti docker.pub.sina.com.cn:5000/tensorflow_gpu:xiamin  
 
-docker cp ef1343032b94:/ctpn_crnn /data1/Project/shixi_xiamin/ctpn_crnn
+docker cp cd3bbd7c8133:/ctpn_crnn /data1/Project/shixi_xiamin/ctpn_crnn
 
 python pyftpserver.py
 ```
