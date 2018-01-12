@@ -12,15 +12,15 @@ import logging
 from logging.handlers import TimedRotatingFileHandler
 
 PROCESS_NUM = 5
-MODEL_PATH = './model/ad_classifier-11-14.pkl'
-WORDS_PATH = './model/feature_words-11-14.txt'
+MODEL_PATH = './model/ad_classifier.pkl'
+WORDS_PATH = './model/feature_words.txt'
 USER_DCICT_PATH = "./user-dict.txt"
 jieba.load_userdict(USER_DCICT_PATH)
 
 
 app = Flask(__name__)
-log_file_handler = TimedRotatingFileHandler(filename="/data1/Project/shixi_xiamin/log/ad_classifier.log", when="D", interval=2, backupCount=2)
-# log_file_handler = TimedRotatingFileHandler(filename="./log/porn_image.log", when="D", interval=2, backupCount=2)
+# log_file_handler = TimedRotatingFileHandler(filename="/data1/Project/shixi_xiamin/log/ad_classifier.log", when="D", interval=2, backupCount=2)
+log_file_handler = TimedRotatingFileHandler(filename="./log/porn_image.log", when="D", interval=2, backupCount=2)
 log_fmt = '%(asctime)s\tFile \"%(filename)s\",line %(lineno)s\t%(levelname)s: %(message)s'
 formatter = logging.Formatter(log_fmt)
 log_file_handler.setFormatter(formatter)
@@ -46,62 +46,18 @@ log.info('加载特征完毕........')
 def adFilter():
     try:
         results = []
-
-        #初始化每个线程存储的数组
-        names = globals()
-        for i in range(0,PROCESS_NUM):
-            names['result%s' % i] = []
-        for j in range(0,PROCESS_NUM):
-            names['input%s' % j] = []
-
         if request.method == 'POST':
             log.info('接收post请求........')
             txt_lines_str = request.form['txt_lines']
             txt_lines = ast.literal_eval(txt_lines_str)
-            txt_lines_len = len(txt_lines)
-
-            batch_size = txt_lines_len/PROCESS_NUM
-            for m in range(0,PROCESS_NUM-1):
-                for n in range(0,batch_size):
-                    index = m*batch_size + n
-                    input = names['input%s' % m]
-                    input.append(txt_lines[index])
-                # print('input')
-                # for tmp in input:
-                #     print(tmp)
-            for k in range(index+1,txt_lines_len):
-                tmp = PROCESS_NUM-1
-                input = names['input%s' % tmp]
-                input.append(txt_lines[k])
-            # print('input----')
-            # for tmp in input:
-            #     print(tmp)
-
-        threads = []
-        for t in range(0,PROCESS_NUM):
-            if len(names['input%s' % t]) > 0:
-                t = threading.Thread(target=detect_line,args=(names['input%s' % t],names['result%s' % t]))
-                threads.append(t)
-
-        for thr in threads:
-            try:
-                thr.start()
-            except:
-                print "Error: unable to open a new thread"
-        for thr in threads:
-            if thr.isAlive():
-                thr.join()
-
-        for u in range(0,PROCESS_NUM):
-            results.extend(names['result%s' % u])
+            detect_line(txt_lines,results)
 
         res = {
             'status':True,
             'msg':results
         }
-        # log.info('results')
-        # log.info(results)
-
+        #log.info('results')
+        log.info(results)
 
     except Exception,e:
         log.info(e.message)

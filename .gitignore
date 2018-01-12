@@ -31,8 +31,20 @@ word2vec/
 VOCdevkit/
 pretrain/
 
+train_data/
+Project/ctpn_crnn_train/data_crnn/Train/
+Project/ctpn_crnn_train/data_crnn/Test/
+Project/ctpn_crnn_train/checkpoints_ctpn/
+Project/ctpn_crnn_train/checkpoints_crnn/
+Project/ctpn_crnn_train/data_ctpn/results_new_model/
+Project/ctpn_crnn_train/data_ctpn/text_picture/
+cv.py
+Project/ctpn_crnn_train/output_model_ctpn/
 
-
+Project/SynthText_Chinese_version-master/chinese_sytnthtext_pre_data/
+Project/SynthText_Chinese_version-master/data/
+Project/SynthText_Chinese_version-master/dcnf-fcsp
+Project/SynthText_Chinese_version-master/mcg
 
 
 

@@ -5,4 +5,4 @@ stopwords_cn.txt  停用词表
 ad_classifier 线上运行版本
 
 # 58上运行
-uwsgi uwsgi_config.ini &
+uwsgi uwsgi_config_ad.ini &
