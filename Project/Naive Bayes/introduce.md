@@ -5,4 +5,10 @@ stopwords_cn.txt  停用词表
 ad_classifier 线上运行版本
 
 # 58上运行
+先启动虚拟环境
+
+source /usr/home/shixi_xiamin/virtualenv/py2/bin/activate
+
+运行
+
 uwsgi uwsgi_config_ad.ini &
